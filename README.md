@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm Nure-Alam, an undergraduate in computer science. I am eager to begin my career in the IT industry as a software engineer. I have a strong interest in computer programming, software engineering principles, and database management. Moreover, I am highly motivated to apply my knowledge to real-world software development projects.
+"I'm Nure-Alam, an undergraduate student majoring in Computer Science & Engineering. I am eager to begin my career in the IT industry as a software engineer. I have a strong interest in computer programming, software engineering principles, and database management. Furthermore, I am highly motivated to apply my knowledge to real-world software development projects."
 
 
 ## Things I am passionate about
