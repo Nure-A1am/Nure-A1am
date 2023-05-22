@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Nure-A1am/Nure-A1am/blob/main/resource/coding_animation.gif" alt="Hello world">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developement;Expert+with+Android+Developement;Expert+with+Back-end+Development;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developement;Expert+with+Android+Developement;Expert+with+Back-end+Development;Expert+with+API+Integration;)](https://git.io/typing-svg)
 
 ## About me
 
