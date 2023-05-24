@@ -19,6 +19,11 @@ I'm Nure-Alam, an undergraduate student majoring in Computer Science & Engineeri
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/nure-alam)
 - And of course GitHub you're already on (Recursion).
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nure-A1am/Nure-A1am/main/resource/github-contribution-grid-snake.svg#gh-dark-mode-only"
+    alt="Grid Snake" />
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nure-A1am/count.svg" />
