@@ -1,12 +1,12 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/" alt="Hello world">
+<img src="https://github.com/Nure-A1am/Nure-A1am/blob/main/resource/coding_animation.gif" alt="Hello world">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developement;Expert+with+Android+Developement;Expert+with+Back-end+Development;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Web+Developement;Android+Developement;Back-end+Development;API+Integration;)](https://git.io/typing-svg)
 
 ## About me
 
-I'm Nure-Alam, an undergraduate in computer science student. I am eager to begin my career in the IT industry as a software engineer. I have a strong interest in computer programming, software engineering principles, and database management. Moreover, I am highly motivated to apply my knowledge to real-world software development projects.
+I'm Nure-Alam, an undergraduate student majoring in Computer Science & Engineering. I am eager to begin my career in the IT industry as a software engineer. I have a strong interest in computer programming, software engineering principles, and database management. Furthermore, I am highly motivated to apply my knowledge to real-world software development projects.
 
 
 ## Things I am passionate about
