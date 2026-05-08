@@ -24,10 +24,10 @@ I'm Nure-Alam, an undergraduate student majoring in Computer Science & Engineeri
     alt="Grid Snake" />
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nure-A1am/count.svg" />
-</p>
+</p> -->
 
 
 <!--
